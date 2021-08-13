@@ -18,5 +18,9 @@ public class Main {
         }
         return reversedTo;
     }
+
+    public static void printTestStatement(){
+        System.out.println("test statement");
+    }
     
 }
